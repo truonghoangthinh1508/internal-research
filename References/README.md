@@ -1,24 +1,14 @@
-# internal-research
+# References main files 
 
-The main repo for internal research: Paper, post, blocks of code, ideas, concepts... are all welcome.
+The main repo for research reference
 
-## Description & Rules
+## Technical Section
 
-* Internal Research Only: Chỉ submit những research của thành viên trong group, ngoài ra những tài liệu tham khảo có thể xem/ghi trong mục References.
+Tài liệu tham khảo chuyên về các chủ đề kỹ thuật
 
-* Vn-vi Language: Bài nghiên cứu trong Submissions phải viết bằng tiếng Việt.
 
-* Markdown format: Format bài viết trên file markdown (.md) để nhiều engine có thể show được bài viết online.
+## Business Section
 
-* Research Content: Chủ đề theo đuổi của nhóm là Distributed Technologies, bao gồm: p2p network, database, cryptography, consensus algorithms, blockchain, distributed ledger... những chủ đề ít liên quan hơn sẽ được xem xét.
+Tài liệu tham khảo về thị trường, sản phẩm, tổ chức...
 
-## Contribute
-
-Mọi thành viên đều có thể submit bài viết hoặc đặt yêu cầu.
-
-* Submissions: Nơi chứa bài viết chính thức.
-
-* References: Nơi chứa tài liệu tham khảo.
-
-* Requests.md: Yêu cầu bài biết, nếu bạn cần kiến thức, tài liệu về chuyên mục nào đó, hãy submit request.
-
+* [Báo cáo thị trường Blockchain của Deloitte](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/financial-services/us-fsi-2018-global-blockchain-survey-report.pdf). 
