@@ -5,7 +5,7 @@ The main repo for research reference
 ## Technical Section
 
 * [Source code của bitcoin, phiên bản đầu tiên do Satoshi viết - end of 2008](https://satoshi.nakamotoinstitute.org/code/)
- - 2018
+* [Bitcoin White Paper - multiple languages - 2008](https://bitcoin.org/en/bitcoin-paper)
 
 ## Business Section
 
