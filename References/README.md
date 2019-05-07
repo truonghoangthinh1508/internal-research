@@ -4,7 +4,7 @@ The main repo for research reference
 
 ## Technical Section
 
-Tài liệu tham khảo chuyên về các chủ đề kỹ thuật
+* [Source code của bitcoin, phiên bản đầu tiên do Satoshi viết - end of 2018](https://satoshi.nakamotoinstitute.org/code/)
 
 
 ## Business Section
