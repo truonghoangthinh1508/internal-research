@@ -1,11 +1,11 @@
 package main
 
 import (
-    "internal-research/Practices/phuocthanh/connection"
+    "internal-research/Practices/hoangthinh/connection"
 )
 
 func main() {
-    // connection.Listen ("localhost:8686")
-    c := connection.Connect ("localhost:8686")
+    // connection.Listen ("localhost:8000")
+    c := connection.Connect ("localhost:8")
     connection.SendMsg(c, "hello")
 }
